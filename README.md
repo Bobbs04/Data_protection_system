@@ -1,6 +1,6 @@
 # Data Protection System
 ## This is the landing page of DPS
-![Blue White Modern Technology Presentation](https://github.com/Bobbs04/Data_protection_system/assets/111049541/44ac25f7-b37e-4dbe-92f1-0718ffe33400)
+
 ![Blue Modern Artifical Intelligence Instagram Post](https://github.com/Bobbs04/Data_protection_system/assets/111049541/994cd5da-2be8-4d50-b977-bfb5ab09e4af)
 ![1](https://github.com/Bobbs04/Data_protection_system/assets/111049541/76199abb-6d73-4398-9b35-90a6628c53c7)
 ![2](https://github.com/Bobbs04/Data_protection_system/assets/111049541/7478f1c9-dbb5-4a06-809f-c7957e2be47a)
